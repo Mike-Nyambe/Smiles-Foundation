@@ -3063,30 +3063,30 @@ ul.pagination {
   content: "";
   height: 100%;
   width: 100%;
-  background: url(assets/img/shape/3.png);
+  background: url(assets/img/shape/water.png);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
   z-index: -1;
-  opacity: 0.1;
+  /* opacity: 0.1; */
 }
 
 .we-do-area .single-item:first-child .item i::after {
-  background: url(assets/img/shape/4.png);
+  background: url(assets/img/shape/health.png);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
 }
 
 .we-do-area .single-item:nth-child(3n) .item i::after {
-  background: url(assets/img/shape/5.png);
+  background: url(assets/img/shape/plant.png);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
 }
 
 .we-do-area .single-item:nth-child(4n) .item i::after {
-  background: url(assets/img/shape/6.png);
+  background: url(assets/img/shape/build.png);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
@@ -3835,12 +3835,12 @@ ul.pagination {
   padding: 0 30px;
   border-radius: 30px;
   border: 2px solid #3bcf93 !important;
-  background: #ffffff;
+  background: var(--brand-color);
   font-weight: 800;
 }
 
 .hibiscus .volunteer-area form button {
-  border: 2px soliid var(--brand-color) !important;
+  border: 2px solid var(--brand-color) !important;
 }
 
 .shape-bottom {
