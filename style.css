@@ -6398,13 +6398,13 @@ a.btn-more:hover {
   background: #fafafa;
   line-height: 80px;
   margin-right: 25px;
-  color: #3bcf93;
-  border: 1px dashed #3bcf93;
+  color: var(--brand-color);
+  border: 1px solid var(--brand-color);
   border-radius: 50%;
 }
 
 .hibiscus .contact-form-area .address-info .address-items ul li i {
-  color: var(--brand-color);
+  color: blue;
 }
 
 .contact-form-area .address-info .address-items ul li:last-child {
