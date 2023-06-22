@@ -1,7 +1,7 @@
 /* ===================================================================
     
     Author          : Valid Theme
-    Template Name   : Poora - Fundraising & Charity Template
+    Template Name   : smiles foundation zambia
     Version         : 1.0
     
 * ================================================================= */

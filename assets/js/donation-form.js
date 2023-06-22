@@ -1,10 +1,3 @@
-/* ===================================================================
-    
-    Author          : Valid Theme
-    Template Name   : Digilab - SEO & Digital Marketing Agency Template
-    Version         : 1.0
-    
-* ================================================================= */
 
 (function($) {
     "use strict";
