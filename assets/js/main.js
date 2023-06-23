@@ -1,6 +1,6 @@
 /* ===================================================================
     
-    Author          : Valid Theme
+    Author          : mike nyambe
     Template Name   : smiles foundation zambia
     Version         : 1.0
     
